@@ -1,0 +1,6 @@
+c:\users\angel murchison\documents\visual studio 2015\Projects\SchoolHouseRockSQL\SchoolHouseRockSQL\bin\Debug\SchoolHouseRockSQL.exe.config
+c:\users\angel murchison\documents\visual studio 2015\Projects\SchoolHouseRockSQL\SchoolHouseRockSQL\obj\Debug\SchoolHouseRockSQL.csprojResolveAssemblyReference.cache
+c:\users\angel murchison\documents\visual studio 2015\Projects\SchoolHouseRockSQL\SchoolHouseRockSQL\bin\Debug\SchoolHouseRockSQL.exe
+c:\users\angel murchison\documents\visual studio 2015\Projects\SchoolHouseRockSQL\SchoolHouseRockSQL\bin\Debug\SchoolHouseRockSQL.pdb
+c:\users\angel murchison\documents\visual studio 2015\Projects\SchoolHouseRockSQL\SchoolHouseRockSQL\obj\Debug\SchoolHouseRockSQL.exe
+c:\users\angel murchison\documents\visual studio 2015\Projects\SchoolHouseRockSQL\SchoolHouseRockSQL\obj\Debug\SchoolHouseRockSQL.pdb
